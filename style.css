@@ -1,0 +1,35 @@
+body {
+    /* background: linear-gradient(to bottom, black, white); */
+   
+}
+.logo {
+    width: 150px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px;
+} 
+h1{
+    font-family: 'Oswald', sans-serif;
+}
+.link {
+    flex-direction: row;
+    justify-content: center;
+
+}
+.introduction{
+    font-size:30px;
+    font-family: 'Oswald', sans-serif;
+}
+.DonkeyK{
+    width:400px;
+}
+.ultimate{
+width:640px;
+height:427px;
+}
+p{
+    font-size: 30px;
+    font-family: 'Oswald', sans-serif;
+}
